@@ -1,7 +1,7 @@
 # Neural Verification of Deep Convolution Neural Networks
 
 ## Features
-- Allows formal verification of the accuracy of Deep CNN's using neural network verifiers such as Marabou
+- Allows formal verification of Deep CNN's using neural network verifiers such as Marabou
 - Encodes the high dimensional RGB input images to lower dimension latent space representation using a Variational AutoEncoder structure
  
 ### *Current Features*
