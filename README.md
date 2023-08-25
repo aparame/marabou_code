@@ -14,5 +14,9 @@
 ## How to connect to Palmetto Cluster and Run
 
 1) Connect to ```Palmetto OnDemand``` supercomputer cluster using Clemson credentials and start a new Jupyter Notebook session. Follow the link for more instructions to start a Jupyter notebook (https://docs.rcd.clemson.edu/palmetto/connect/openod/apps/jupyter/)
+
+
 2) Once a notebook is started, open the terminal in the notebook and git clone this repository into any folder
-3) The easiest file to begin with would be the ```MNIST.ipynb``` notebook as it trains a CNN to classify the MNIST dataset.
+
+
+3) The ```main.ipynb``` file trains the VAE on the MNIST dataset and then combines the CNN from ```MNIST.ipynb``` to predict class labels. Tensorflow and other necessary packages will be automatically installed when you run the first cell in the notebook. There is pre-trained CNN model already present for ease of use. The VAE model will be trained from the ```main.ipynb``` beacuse the architecture for the same is still under development
