@@ -27,7 +27,7 @@ one of the existing files as an example.
 
  
 ### *Current Features*
-- Currently the ```NSV_training.py``` file enables the user to train and save simple neural network locally on their device.
+- Currently the ```NSV_Tensorflow_training.py``` file enables the user to train and save simple neural network locally on their device.
 - The ```NSV_Tensorflow.py``` file allows the user to use Marabou to set bounds on the input and output variables of the network trained and saved using the ```NSV_Training.py``` file.
 
 ## How to connect to Palmetto Cluster and Run
