@@ -38,5 +38,4 @@ one of the existing files as an example.
 
 3) Delete all contents of that folder, and git clone this repository into that folder. We do this as some of the examples from maraboupy do not run natively as expected, hence I have made those changes accordingly.
 
-4) Try running the ```1_TensorflowExample.py``` and if it successfull runs, then everything ahs been succesfully installed.
-5) 
+4) Try running the ```1_TensorflowExample.py``` and if it successfull runs, then everything has been succesfully installed.
